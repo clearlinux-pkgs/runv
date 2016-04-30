@@ -1,6 +1,6 @@
 Name     : runv
 Version  : 0.5.0
-Release  : 2
+Release  : 3
 URL      : https://github.com/hyperhq/runv/archive/v0.5.0.tar.gz
 Source0  : https://github.com/hyperhq/runv/archive/v0.5.0.tar.gz
 Summary  : runV is a hypervisor-based runtime for OCF.
